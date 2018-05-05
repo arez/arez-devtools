@@ -1,0 +1,20 @@
+{
+  "name": "Arez DevTools",
+  "version": "1.0",
+  "description": "Introspect Arez application state",
+  "page_action": {
+    "default_icon": {
+      "16": "images/arez-16x16.png",
+      "32": "images/arez-32x32.png",
+      "48": "images/arez-48x48.png",
+      "128": "images/arez-128x128.png"
+    }
+  },
+  "icons": {
+    "16": "images/arez-16x16.png",
+    "32": "images/arez-32x32.png",
+    "48": "images/arez-48x48.png",
+    "128": "images/arez-128x128.png"
+  },
+  "manifest_version": 2
+}
