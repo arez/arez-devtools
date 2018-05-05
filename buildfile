@@ -33,7 +33,8 @@ define 'arez-devtools' do
                :elemental2_promise,
                :braincheck,
                :arez_annotations,
-               :arez_core
+               :arez_core,
+               :gwt_user
 
   gwt_enhance(project)
 
