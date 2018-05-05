@@ -7,6 +7,7 @@ task 'export_extension' do
   rm_rf EXTENSION_DIR
   mkdir_p File.dirname(EXTENSION_DIR)
   cp_r "#{WORKSPACE_DIR}/src/main/webapp", EXTENSION_DIR
+  IO.write("#{EXTENSION_DIR}/manifest.json",IO.read("#{EXTENSION_DIR}/manifest.json").gsub('"version": "1.0"',"\"version\": \"#{Buildr.projects[0].version}\""))
 end
 
 
