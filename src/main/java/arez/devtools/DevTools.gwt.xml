@@ -2,4 +2,6 @@
   <inherits name='arez.Arez'/>
 
   <source path='' includes='*.java'/>
+
+  <entry-point class='arez.devtools.DevTools'/>
 </module>
