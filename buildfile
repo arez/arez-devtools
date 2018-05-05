@@ -59,6 +59,7 @@ define 'arez-devtools' do
   iml.excluded_directories << project._('tmp')
   ipr.extra_modules << '../mobx-react-devtools/mobx-react-devtools.iml'
   ipr.extra_modules << '../andykog-mobx-devtools/andykog-mobx-devtools.iml'
+  ipr.extra_modules << '../redux-devtools-extension/redux-devtools-extension.iml'
 
   ipr.add_default_testng_configuration(:jvm_args => '-ea -Dbraincheck.environment=development -Darez.environment=development')
   ipr.add_component_from_artifact(:idea_codestyle)
