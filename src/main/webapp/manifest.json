@@ -1,7 +1,7 @@
 {
   "name": "Arez DevTools",
   "version": "1.0",
-  "description": "Introspect Arez application state",
+  "description": "Adds Arez debugging tools to the Chrome Developer Tools.",
   "page_action": {
     "default_icon": {
       "16": "images/arez-16x16.png",
