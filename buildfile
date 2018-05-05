@@ -2,7 +2,7 @@ require 'buildr/git_auto_version'
 require 'buildr/gpg'
 require 'buildr/gwt'
 
-desc 'Arez-DevTools: Arez Browser DevTool capabilities'
+desc 'Arez-DevTools: Browser-based Arez DevTools'
 define 'arez-devtools' do
   project.group = 'org.realityforge.arez.devtools'
   compile.options.source = '1.8'
