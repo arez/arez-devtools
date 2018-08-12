@@ -22,7 +22,7 @@ This can be added to chrome by visiting `chrome://extensions/`, enabling `Develo
 
 # More Information
 
-For more information about component, please see the [Website](https://arez.github.io/arez-devtools). For the
+For more information about component, please see the [Website](https://arez.github.io/devtools). For the
 source code and project support please visit the [GitHub project](https://github.com/arez/arez-devtools).
 
 # Contributing
