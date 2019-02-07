@@ -7,9 +7,9 @@ repositories:
    - https://stocksoftware.jfrog.io/stocksoftware/thirdparty-local
 
 artifacts:
-  idea_codestyle: au.com.stocksoftware.idea.codestyle:idea-codestyle:xml:1.12
+  idea_codestyle: au.com.stocksoftware.idea.codestyle:idea-codestyle:xml:1.13
 
-  guiceyloops: org.realityforge.guiceyloops:guiceyloops:jar:0.95
+  guiceyloops: org.realityforge.guiceyloops:guiceyloops:jar:0.96
 
   javax_annotation: org.realityforge.javax.annotation:javax.annotation:jar:1.0.0
   jetbrains_annotations: org.realityforge.org.jetbrains.annotations:org.jetbrains.annotations:jar:1.0.0
@@ -22,15 +22,15 @@ artifacts:
 
   jsinterop_base: com.google.jsinterop:base:jar:1.0.0-RC1
 
-  elemental2_core: com.google.elemental2:elemental2-core:jar:1.0.0-RC1
-  elemental2_dom: com.google.elemental2:elemental2-dom:jar:1.0.0-RC1
-  elemental2_promise: com.google.elemental2:elemental2-promise:jar:1.0.0-RC1
+  elemental2_core: org.realityforge.com.google.elemental2:elemental2-core:jar:1.0.0-b15-7a28038
+  elemental2_dom: org.realityforge.com.google.elemental2:elemental2-dom:jar:1.0.0-b15-7a28038
+  elemental2_promise: org.realityforge.com.google.elemental2:elemental2-promise:jar:1.0.0-b15-7a28038
 
   arez_annotations: org.realityforge.arez:arez-annotations:jar:0.92
   arez_core: org.realityforge.arez:arez-core:jar:0.92
   arez_processor: org.realityforge.arez:arez-processor:jar:0.92
   arez_component: org.realityforge.arez:arez-component:jar:0.92
 
-  braincheck: org.realityforge.braincheck:braincheck:jar:1.9.0
+  braincheck: org.realityforge.braincheck:braincheck:jar:1.12.0
 
   testng: org.testng:testng:jar:6.11

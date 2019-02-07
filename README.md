@@ -1,6 +1,6 @@
 # Arez-DevTools
 
-[![Build Status](https://secure.travis-ci.org/arez/arez-devtools.png?branch=master)](http://travis-ci.org/arez/arez-devtools)
+[![Build Status](https://secure.travis-ci.org/arez/arez-devtools.svg?branch=master)](http://travis-ci.org/arez/arez-devtools)
 [<img src="https://img.shields.io/maven-central/v/org.realityforge.arez.devtools/arez-devtools.svg?label=latest%20release"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.realityforge.arez.devtools%22)
 
 This is the home of the browser-based Arez DevTools. It is an early stage experiment not suitable for
