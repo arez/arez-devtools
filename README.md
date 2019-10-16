@@ -1,4 +1,8 @@
-# Arez-DevTools
+# Deprecated
+
+<p align="center">This project has been deprecated. Progress was not made and when we return to this it will likely be rewritten from the ground up.</p>
+
+---# Arez-DevTools
 
 [![Build Status](https://secure.travis-ci.org/arez/arez-devtools.svg?branch=master)](http://travis-ci.org/arez/arez-devtools)
 [<img src="https://img.shields.io/maven-central/v/org.realityforge.arez.devtools/arez-devtools.svg?label=latest%20release"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.realityforge.arez.devtools%22)
